@@ -2,12 +2,12 @@
 ## Onboarding
 Use Stripe connect to connect the user's Stripe account to Cornerstone.  **Do we need to store a token or credentials in the database for the user?**
 
-##Setup
+## Setup
 We will need something to seperate user's giving page.  This can be done with a subdomain (fcchurch.cornerstoneio.com) or using a slug (cornerstoneio.com/fcchurch)
 
 Giving funds.  I would think we need to let the user setup different funds that donations goes towards.  **Would we want to use a default fund? (gifts that we dont know what they are for, it goes to that fund.  Do we need that?)**
 
-##Cornerstone Administration
+## Cornerstone Administration
 ### View Contributions
 * View all recent transactions buy time period
 * View transactions by person
